@@ -426,7 +426,7 @@ export default function LibraryView({ unlockedVideoIds, onVideoUnlock }: Library
           )}
         </AnimatePresence>
 
-        {/* Content Locker Active overlay */}
+        {/* Verification Active overlay */}
         <AnimatePresence>
           {lockedVideo && (
             <CpaLockerModal 
