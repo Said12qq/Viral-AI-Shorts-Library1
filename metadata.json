@@ -1,0 +1,6 @@
+{
+  "name": "Viral AI Shorts Library",
+  "description": "A premium AI video template marketplace where users browse viral AI videos and football clips, preview them, and unlock downloads through a sponsored offer content locker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
